@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project implements a complete **supervised machine learning pipeline** using the **Kaggle Titanic dataset**.
+This project task 2 future xcel implements a complete **supervised machine learning pipeline** using the **Kaggle Titanic dataset**.
 
 The goal is to predict passenger survival based on features such as **age, gender, passenger class, fare, and family relationships**.
 
